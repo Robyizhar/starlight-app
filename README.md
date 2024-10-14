@@ -1,66 +1,19 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+1. About Us
+Bahasa Indonesia: Starlight Publisher adalah penerbit buku yang berdedikasi untuk membawa cerita dan ide-ide berkualitas ke hadapan pembaca di seluruh dunia. Kami percaya bahwa setiap penulis memiliki suara yang unik dan layak didengar. Dengan berkomitmen untuk menerbitkan berbagai genre, kami berusaha menciptakan platform yang mendukung penulis berbakat, baik yang baru memulai maupun yang sudah berpengalaman.
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+English: Starlight Publisher is a book publishing company dedicated to bringing quality stories and ideas to readers around the globe. We believe that every author has a unique voice that deserves to be heard. Committed to publishing various genres, we strive to create a platform that supports talented writers, both newcomers and seasoned professionals.
 
-## About Laravel
+2. Our Mission
+Bahasa Indonesia: Misi kami di Starlight Publisher adalah untuk memfasilitasi penulis dalam menyampaikan cerita mereka kepada dunia, sekaligus memberikan pengalaman membaca yang menginspirasi dan mendidik. Kami berusaha untuk menciptakan karya-karya yang tidak hanya menghibur, tetapi juga memicu pemikiran dan menambah wawasan bagi pembaca.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+English: Our mission at Starlight Publisher is to empower authors to share their stories with the world while providing readers with an inspiring and educational reading experience. We aim to create works that not only entertain but also provoke thought and expand knowledge for our readers.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+3. What We Do
+Bahasa Indonesia: Di Starlight Publisher, kami menawarkan layanan penerbitan lengkap, mulai dari pengeditan naskah, desain sampul, hingga distribusi. Kami berkolaborasi dengan penulis dalam setiap tahap proses penerbitan, memastikan bahwa visi mereka terwujud dengan sempurna. Selain itu, kami juga aktif dalam pemasaran buku untuk membantu penulis menjangkau audiens yang lebih luas.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+English: At Starlight Publisher, we provide comprehensive publishing services, from manuscript editing and cover design to distribution. We collaborate with authors at every stage of the publishing process, ensuring their vision is perfectly realized. Additionally, we actively engage in book marketing to help authors reach a wider audience.
 
-## Learning Laravel
+4. Our Steps
+Bahasa Indonesia: Proses penerbitan di Starlight Publisher dimulai dengan konsultasi awal untuk memahami kebutuhan penulis. Selanjutnya, kami melakukan pengeditan naskah, desain sampul, dan layout. Setelah itu, buku siap dicetak dan didistribusikan ke berbagai platform. Kami juga menyediakan dukungan pemasaran untuk memastikan buku mendapatkan perhatian yang layak.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+English: The publishing process at Starlight Publisher begins with an initial consultation to understand the author's needs. Next, we carry out manuscript editing, cover design, and layout. After that, the book is ready for printing and distribution across various platforms. We also provide marketing support to ensure the book receives the attention it deserves.
