@@ -36,7 +36,7 @@
                                 </div>
                             </div>
                             <div class="portfolio-title">
-                                <h2><a href="#">{{ $book->title }}</a></h2>
+                                <h2><a href="{{ url('/book-catalog/' . $book->slug) }}">{{ $book->title }}</a></h2>
                                 @php
                                     $categoriesArray = $categories->toArray();
                                     $category = array_filter($categoriesArray, function ($category) use ($book) {
@@ -44,7 +44,7 @@
                                     });
                                     $name = !empty($category) ? array_values($category)[0]['name'] : 'Not found';
                                 @endphp
-                                <p><a href="#">{{ $name }}</a> </p>
+                                <p><a href="{{ url('/book-catalog/' . $book->slug) }}">{{ $name }}</a> </p>
                             </div>
                         </div>
                     </div>
