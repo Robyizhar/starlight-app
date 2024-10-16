@@ -25,7 +25,7 @@
                 @endforeach
             </ul>
 
-            <div class="portfolio portfolio-with-title col-3 gutter mt-50">
+            <div class="portfolio portfolio-with-title col-3 col-sm-2 gutter mt-50">
                 @foreach ($books as $book)
                     <div class="portfolio-item" data-groups='["all", "{{ $book->category_id }}"]'>
                         <div class="portfolio-wrapper">
