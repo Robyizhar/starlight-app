@@ -3,7 +3,7 @@
         <ul>
             <li data-transition="fade" data-slotamount="default"  data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1500"  data-thumb="{{ asset('front/assets/img/parallax/notgeneric.jpg') }}"  data-rotate="0"  data-saveperformance="off"  data-title="Parallax" data-description="">
 
-                <img src="{{ asset('front/assets/img/banner/banner-1.jpg') }}"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                <img src="{{ asset('front/assets/img/banner/pattern.jpg') }}"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 
                 <div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-3 dark-text"
                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
