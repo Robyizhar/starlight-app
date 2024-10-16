@@ -10,7 +10,7 @@
                 <div class="posts-content single-post">
                     <article class="post-wrapper">
                         <header class="entry-header-wrapper clearfix">
-                            <div class="entry-header">
+                            <div class="entry-header mb-0">
                                 <h2 class="entry-title">{{ str_replace('-', ' ', $book->title); }}</h2>
                             </div>
                         </header>
@@ -42,10 +42,10 @@
                                                 <th scope="row">Lebar</th>
                                                 <td>{{ $book->width }}</td>
                                             </tr>
-                                            <tr>
+                                            {{-- <tr>
                                                 <th scope="row">Peluncuran</th>
                                                 <td>{{ date('d/m/Y', strtotime($book->launch_at)) }}</td>
-                                            </tr>
+                                            </tr> --}}
                                         </tbody>
                                     </table>
                                 </div>

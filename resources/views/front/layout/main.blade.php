@@ -49,7 +49,7 @@
         <!-- Preloader -->
         <div id="preloader">
             <div class="preloader-position">
-                <img src="{{ asset('storage/logo/Logo-Starlightbooks-(Hitam)(coped) (1).png') }}" alt="logo" >
+                <img src="{{ asset('storage/logo/logo-loader-2.png') }}" alt="logo" >
                 <div class="progress">
                     <div class="indeterminate"></div>
                 </div>
@@ -79,60 +79,38 @@
         <script src="{{ asset('front/assets/revolution/js/jquery.themepunch.tools.min.js') }}"></script>
         <script src="{{ asset('front/assets/revolution/js/jquery.themepunch.revolution.min.js') }}"></script>
 
-        <!-- RS5.0 Init  -->
         <script type="text/javascript">
             jQuery(document).ready(function() {
-                jQuery(".materialize-slider").revolution({
+               jQuery(".materialize-parallax").revolution({
                     sliderType:"standard",
                     sliderLayout:"fullscreen",
                     delay:9000,
                     navigation: {
-                        keyboardNavigation: "on",
+                        keyboardNavigation:"off",
                         keyboard_direction: "horizontal",
-                        mouseScrollNavigation: "off",
-                        onHoverStop: "off",
-                        touch: {
-                            touchenabled: "on",
+                        mouseScrollNavigation:"off",
+                        onHoverStop:"off",
+                        touch:{
+                            touchenabled:"on",
                             swipe_threshold: 75,
                             swipe_min_touches: 1,
                             swipe_direction: "horizontal",
                             drag_block_vertical: false
-                        },
-                        arrows: {
-                            style: "gyges",
-                            enable: true,
-                            hide_onmobile: false,
-                            hide_onleave: true,
-                            tmp: '',
-                            left: {
-                                h_align: "left",
-                                v_align: "center",
-                                h_offset: 10,
-                                v_offset: 0
-                            },
-                            right: {
-                                h_align: "right",
-                                v_align: "center",
-                                h_offset: 10,
-                                v_offset: 0
-                            }
                         }
                     },
                     responsiveLevels:[1240,1024,778,480],
                     gridwidth:[1240,1024,778,480],
                     gridheight:[700,600,500,500],
-                    disableProgressBar:"on",
                     parallax: {
                         type:"mouse",
                         origo:"slidercenter",
                         speed:2000,
                         levels:[2,3,4,5,6,7,12,16,10,50],
-                    }
+                        disable_onmobile:"on"
+                    },
+
                 });
             });
-            function underMaintenance(event) {
-                alert('Halaman sedang maintenance!');
-            }
         </script>
     </body>
 </html>

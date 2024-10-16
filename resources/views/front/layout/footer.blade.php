@@ -21,7 +21,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="footer-logo">
-                        <img src="{{ asset('storage/logo/Logo-Starlightbooks-(Hitam)(coped) (1).png') }}" alt="">
+                        <img src="{{ asset('storage/logo/logo-footer.png') }}" alt="">
                     </div>
 
                     <span class="copy-text">Copyright &copy; 2024 <a href="#">Starlight Publisher</a> &nbsp; | &nbsp;  All Rights Reserved &nbsp; | &nbsp; </span>

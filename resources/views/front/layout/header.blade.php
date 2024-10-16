@@ -3,7 +3,7 @@
         <div class="container">
             <div id="materialize-menu" class="menuzord">
                 <a href="{{ url('/') }}" class="logo-brand">
-                    <img src="{{ asset('storage/logo/Logo-Starlightbooks-(Hitam)(coped) (1).png') }}" alt=""/>
+                    <img src="{{ asset('storage/logo/logo-navbar.png') }}" alt=""/>
                 </a>
                 <ul class="menuzord-menu pull-right">
                     <li class="{{ empty(Request::segment(1)) ? 'active' : ''}}" data={{Request::segment(1)}}>

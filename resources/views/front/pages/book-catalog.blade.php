@@ -31,7 +31,7 @@
                                 <img src="{{ asset('storage/book_catalogues/' . $book->image) }}" alt="">
                                 <div class="portfolio-intro">
                                     <div class="action-btn">
-                                        <a href="{{ asset('storage/book_catalogues/' . $book->image) }}" class="tt-lightbox" title="{{ $book->title }}"> <i class="fa fa-search"></i></a>
+                                        <a href="{{ url('/book-catalog/' . $book->slug) }}" title="{{ $book->image }}"> <i class="fa fa-search"></i></a>
                                     </div>
                                 </div>
                             </div>
