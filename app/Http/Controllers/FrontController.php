@@ -42,4 +42,13 @@ class FrontController extends Controller
             'categories' => $categories
         ]);
     }
+
+    public function paqPublish() {
+        $books = BookCatalog::orderBy('id', 'desc')->paginate(20);
+        $categories = BookCategory::get();
+        return view('front.pages.faq-publish', [
+            'books' => $books,
+            'categories' => $categories
+        ]);
+    }
 }

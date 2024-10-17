@@ -13,13 +13,13 @@
                         <a href="{{ url('/book-catalog') }}">Katalog Buku</a>
                     </li>
                     <li>
-                        <a href="javascript:void(0)" onclick="underMaintenance(event)">Cara Terbit</a>
+                        <a href="{{ url('/faq-publish') }}">Cara Terbit</a>
                     </li>
                     <li>
-                        <a href="javascript:void(0)" onclick="underMaintenance(event)">Benefit Terbit</a>
+                        <a href="{{ url('/benefit-publish') }}" >Benefit Terbit</a>
                     </li>
                     <li>
-                        <a href="javascript:void(0)" onclick="underMaintenance(event)">Author</a>
+                        <a href="javascript:void(0)" >Album</a>
                     </li>
                     <li class="{{ Request::segment(1) === 'about-us' ? 'active' : ''}}">
                         <a href="{{ url('/about-us') }}">Tentang Penerbit</a>

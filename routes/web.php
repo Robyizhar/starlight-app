@@ -7,6 +7,8 @@ Route::get('/', [FrontController::class, 'index']);
 Route::get('/book-catalog', [FrontController::class, 'bookCatalog']);
 Route::get('/book-catalog/{slug}', [FrontController::class, 'bookDetail']);
 Route::get('/about-us', [FrontController::class, 'aboutUs']);
+Route::get('/faq-publish', [FrontController::class, 'paqPublish']);
+Route::get('/benefit-publish', [FrontController::class, 'paqPublish']);
 
 // Route::get('/', function () {
 //     return view('welcome');
